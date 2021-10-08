@@ -14,7 +14,7 @@ Next action: Recruit editor, write draft output document.
 
 ## Develop and process the pending ‘haptics’ top-level media type request, based on draft-muthusamy-dispatch-haptics, and the outcome of the previous work item.
 
-Input document: draft-muthusamy-dispatch-haptics
+Input document: [draft-muthusamy-dispatch-haptics](https://datatracker.ietf.org/doc/html/draft-muthusamy-dispatch-haptics-01)
 
 Output document draft:
 
