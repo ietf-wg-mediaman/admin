@@ -18,7 +18,7 @@ Input document: [draft-muthusamy-dispatch-haptics](https://datatracker.ietf.org/
 
 Output document draft:
 
-Editor:
+Editor: Yeshwant Muthusamy
 
 Next action: Consider adopting as WG draft.
 
@@ -28,9 +28,9 @@ Input document: draft-w3cidwg-media-types-with-multiple-suffixes
 
 Output document draft:
 
-Editor:
+Editor: Manu Sporny
 
-Next action: ??
+Next action: Consider adopting as WG draft.
 
 ## Develop a reviewer’s checklist regarding Security Considerations sections in media type applications.
 
