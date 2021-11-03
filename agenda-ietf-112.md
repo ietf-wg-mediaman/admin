@@ -1,6 +1,6 @@
 # Agenda IETF 112
 
-Meeting: TBD (scheduling issues)
+Meeting: Tuesday, November 9, 1430-1530 CET
 Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
