@@ -6,31 +6,29 @@ The following work items are taken from the charter, and annotated with who's re
 
 Input document: BCP 13 - [RFC 6838 section 4.2.7](https://www.rfc-editor.org/rfc/rfc6838.html#section-4.2.7)
 
-Output document draft:
+Output document draft: [draft-duerst-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-duerst-mediaman-toplevel/)
 
-Editor:
+Editor: Martin Dürst
 
-Next action: Recruit editor, write draft output document.
+Next action: Consider adoption as WG draft
 
 ## Develop and process the pending ‘haptics’ top-level media type request, based on draft-muthusamy-dispatch-haptics, and the outcome of the previous work item.
 
-Input document: [draft-muthusamy-dispatch-haptics](https://datatracker.ietf.org/doc/html/draft-muthusamy-dispatch-haptics-01)
-
-Output document draft:
+Output document draft: [draft-ietf-mediaman-haptics](https://datatracker.ietf.org/doc/draft-ietf-mediaman-haptics/)
 
 Editor: Yeshwant Muthusamy
 
-Next action: Consider adopting as WG draft.
+Next action: Consider whether it is ready to request publication on standards track (pending outcome of toplevel discussion)
 
 ## Consider whether and how to permit multiple media type suffixes.
 
 Input document: draft-w3cidwg-media-types-with-multiple-suffixes
 
-Output document draft:
+Output document draft: [draft-ietf-mediaman-suffixes](https://datatracker.ietf.org/doc/draft-ietf-mediaman-suffixes/)
 
 Editor: Manu Sporny
 
-Next action: Consider adopting as WG draft.
+Next action: Consider whether it is ready to request publication on standards track (pending outcome of toplevel discussion)
 
 ## Develop a reviewer’s checklist regarding Security Considerations sections in media type applications.
 
