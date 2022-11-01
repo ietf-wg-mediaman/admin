@@ -4,7 +4,13 @@ Meeting: Wednesday, March 23, 1300-1400 CET (Vienna timezone)
 Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
-2. Principles for new Top Level types (15 min)
+
+    Standard questions will be:
+    * Who has read the draft?
+    * Who supports going to Last Call at this time?
+    * Who thinks there are issues that must be resolved before going to Last Call?
+
+3. Principles for new Top Level types (15 min)
     
     Presentation of [draft-duerst-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-duerst-mediaman-toplevel/) (Martin Duerst): 5 min (note: -01 will be the basis for discussion.)
     
