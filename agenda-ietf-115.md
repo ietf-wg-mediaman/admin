@@ -6,7 +6,7 @@ Duration: 1 hour
 1. Introduction, Note Well, scribe, agenda bash (5 min)
 2. Principles for new Top Level types (15 min)
     
-    Presentation of [draft-duerst-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-duerst-mediaman-toplevel/) (Martin Duerst): 5 min
+    Presentation of [draft-duerst-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-duerst-mediaman-toplevel/) (Martin Duerst): 5 min (note: -01 will be the basis for discussion.)
     
     Discussion (10 min)
     Decision: Go for WG Last Call once issues are resoved, or await further revisions
