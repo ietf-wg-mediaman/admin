@@ -1,6 +1,6 @@
 # Agenda IETF 115
 
-Meeting: Wednesday, March 23, 1300-1400 CET (Vienna timezone)
+Meeting: Tuesday, November 8, 2022 15:00 London (= GMT)
 Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
