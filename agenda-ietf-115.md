@@ -12,7 +12,7 @@ Duration: 1 hour
 
 3. Principles for new Top Level types (10 min)
     
-    Presentation of [draft-duerst-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-duerst-mediaman-toplevel/) (Martin Duerst): 5 min (note: -01 will be the basis for discussion.)
+    Presentation of [draft-ietf-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-ietf-mediaman-toplevel/) (Martin Duerst): 5 min (note: -01 will be the basis for discussion.)
     
     Discussion (5 min)
     Decision: Go for WG Last Call once issues are resoved, or await further revisions
