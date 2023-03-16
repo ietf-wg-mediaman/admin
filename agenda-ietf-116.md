@@ -1,9 +1,10 @@
 # Agenda IETF 116
 
 
-    mediaman Session 1 (1:00 requested)
-    Monday, 27 March 2023, Session IV 0830-0930
-    Room Name: G317 size: 50
+Date and time: Monday, 27 March 2023, Session IV 0830-0930 CET
+
+Room Name: G317 size: 50
+
 Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
