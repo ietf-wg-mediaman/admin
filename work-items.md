@@ -6,11 +6,11 @@ The following work items are taken from the charter, and annotated with who's re
 
 Input document: BCP 13 - [RFC 6838 section 4.2.7](https://www.rfc-editor.org/rfc/rfc6838.html#section-4.2.7)
 
-Output document draft: [draft-duerst-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-duerst-mediaman-toplevel/)
+Output document draft: [draft-ietf-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-ietf-mediaman-toplevel/)
 
 Editor: Martin Dürst
 
-Next action: Consider adoption as WG draft
+Next action: Consider IETF Last Call
 
 ## Develop and process the pending ‘haptics’ top-level media type request, based on draft-muthusamy-dispatch-haptics, and the outcome of the previous work item.
 
