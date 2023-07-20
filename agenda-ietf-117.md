@@ -9,15 +9,9 @@ Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
 
-    Standard questions will be:
-    * Who has read the draft?
-    * Who supports going to Last Call at this time?
-    * Who thinks there are issues that must be resolved before going to Last Call?
-
 3. Principles for new Top Level types (10 min)
     
-    Presentation of [draft-ietf-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-ietf-mediaman-toplevel/) (Martin Duerst): 5 min (note: -01 will be the basis for discussion.)
-    
+    * Presentation of Last Call result on -03 [draft-ietf-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-ietf-mediaman-toplevel/) (Chair and Martin Dürst): 5 min 
     * Discussion (5 min)
     * Decision: Send to IETF Last Call, or revise
     
