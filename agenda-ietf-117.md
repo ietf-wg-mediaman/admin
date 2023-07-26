@@ -9,7 +9,7 @@ Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
 
-3. Principles for new Top Level types (10 min)
+3. Principles for new Top Level types (5 min)
     
     * Presentation of Last Call result on -03 [draft-ietf-mediaman-toplevel](https://datatracker.ietf.org/doc/draft-ietf-mediaman-toplevel/) (Chair and Martin Dürst): 5 min 
     * Discussion (5 min)
@@ -22,7 +22,7 @@ Duration: 1 hour
     * Discussion (5 min)
     * Decision: Conclude on open issue resolution, either reissue WG Last Call or go to IETF Last Call
     
-6. Multiple suffixes for media types (10 min)
+6. Multiple suffixes for media types (15 min)
 
     * Presentation of [draft-ietf-mediaman-suffixes](https://datatracker.ietf.org/doc/draft-ietf-mediaman-suffixes/) (Manu Sporny): 5 min
   
@@ -31,7 +31,7 @@ Duration: 1 hour
     
 6. Community registration in the standards tree (15 min)
 
-    Document: [non-published "standards-tree" draft](https://mnot.github.io/I-D/draft-nottingham-mediaman-standards-tree.html)
+    Document: [draft-nottingham-mediaman-standards-tree](https://datatracker.ietf.org/doc/draft-nottingham-mediaman-standards-tree/))
 
     * Introduction (Mark Nottingham) (5 min)
     * Discussion (10 min)
