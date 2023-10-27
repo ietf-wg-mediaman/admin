@@ -22,7 +22,8 @@ Duration: 1 hour
     
 6. Multiple suffixes for media types (15 min)
 
-    * Presentation of [draft-ietf-mediaman-suffixes](https://datatracker.ietf.org/doc/draft-ietf-mediaman-suffixes/) (Manu Sporny): 5 min
+    * Presentation of [draft-ietf-mediaman-suffixes](https://ietf-wg-mediaman.github.io/suffixes/) (Manu Sporny): 5 min
+    * NOTE: Link is to the github version, NOT the published draft (deadline trouble)
     * What has changed since last time?
     * Discussion (5 min)
     * Decision: Adopt proposed changes?
