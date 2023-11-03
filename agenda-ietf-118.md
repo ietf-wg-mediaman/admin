@@ -14,7 +14,7 @@ Duration: 1 hour
     * Haptics is approved (but is on reference hold)
     * Suffixes has been very quiet
 
-3. Principles for new Top Level types (5 min)
+3. Principles for new Top Level types (15 min)
     
     * DISCUSS positions and presentation of proposed changes: 5 min 
     * Discussion (15 min)
@@ -36,4 +36,4 @@ Duration: 1 hour
     * Discussion (10 min)
     * Decision: Ready for Last Call (or not).
     
-6. Wrapup, action items, followup (10 min)
+6. Wrapup, action items, followup (5 min)
