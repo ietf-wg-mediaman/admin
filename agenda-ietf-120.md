@@ -1,8 +1,8 @@
 # Agenda IETF 120
 
-Date and time: TBD
-Room Name: TBD
-Duration: 1.5 hours
+Date and time: Monday 22 July 2024 1730-1830 PDT (UTC-7)
+Room Name: Plaza A
+Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
 1. Status of WG documents (5 min)
