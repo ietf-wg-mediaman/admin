@@ -1,7 +1,9 @@
 # Agenda IETF 121
 
 Date and time: 5 November 2024 18:00 - 19:00 (UTC+1 Irish Standard Time)
+
 Room Name: Liffey MR 3
+
 Duration: 1 hour
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
