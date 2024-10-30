@@ -12,3 +12,5 @@ Duration: 1 hour
 1. Result of consensus call on adopting -6838bis
 2. Discussion of topics on -6838bis
 1. Wrap up, action items, and followup (5 min)
+
+[Chair slides](https://docs.google.com/presentation/d/1NZYIUE-0h_uIiQj56HjtoMviOrXr7Hux3uXzzfrGts0/edit#slide=id.p1)
