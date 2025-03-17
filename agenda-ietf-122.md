@@ -8,8 +8,8 @@ Duration: 90 minutes
 
 1. Introduction, Note Well, scribe, agenda bash (5 min)
 1. Status of WG documents (5 min)
-1. Status of -6838bis (20 min)
-2. RTP related information in the registry (10 min)
-1. Follow-up on incomplete and nonexistent registration templates (15 min)
+1. Status of -6838bis (20 min) - Mark Nottingham
+2. RTP related information in the registry (10 min) - Magnus Westerlund
+1. Follow-up on incomplete and nonexistent registration templates (15 min) - Rahul Gupta
 1. Wrap up, action items, and followup (5 min)
 
