@@ -1,8 +1,8 @@
-# Agenda IETF 122
+# Agenda IETF 123
 
-Date and time: March 15 - 21, 2025 17:00 - 18:30 (UTC+7 Indochina Time)
+Date and time: July 2025
 
-Room Name: Boromphimarn 5
+Room Name: (Spain)
 
 Duration: 90 minutes
 
